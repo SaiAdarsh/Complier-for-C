@@ -1,0 +1,20 @@
+                      
+Dumping code generated to this point:
+0	ADD	i	3	#tmp0
+1	ADD	i	1	#tmp1
+2	MULT	23	1	#tmp2
+3	MULT	#tmp2	i	#tmp3
+4	ASSIGN	#tmp3	#VOID	xx
+5	PROLOGUE	#VOID	#VOID	#VOID
+6	EPILOGUE	#VOID	#VOID	#VOID
+7	CALL	#VOID	#VOID	abc
+8	RETURN	#VOID	#VOID	#VOID
+9	if <	a	b	11
+10	GOTO	#VOID	#VOID	17
+11	if <	b	c	13
+12	GOTO	#VOID	#VOID	17
+13	ADD	1	1	#tmp4
+14	ADD	a	1	#tmp5
+15	ADD	#tmp5	e	#tmp6
+16	ASSIGN	#tmp6	#VOID	a
+END 

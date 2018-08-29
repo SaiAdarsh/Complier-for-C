@@ -1,0 +1,12 @@
+           
+Dumping code generated to this point:
+0	ADD	i	10	#tmp0
+1	MULT	p	i	#tmp1
+2	ASSIGN	#tmp1	#VOID	xx
+3	PROLOGUE	#VOID	#VOID	#VOID
+4	EPILOGUE	#VOID	#VOID	#VOID
+5	ADD	x	y	#tmp2
+6	ASSIGN	#tmp2	#VOID	x
+7	CALL	#VOID	#VOID	a
+8	RETURN	#VOID	#VOID	#VOID
+END 

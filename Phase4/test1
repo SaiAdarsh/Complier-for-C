@@ -1,0 +1,13 @@
+program
+int function(int z[10]) 
+{
+int: xx,i;
+xx[i+10]:=p*xx[i]; 
+}
+int : a, b,c;
+begin
+input a,b;
+x:=x+y;
+int a(a,b);
+output c;
+end;

@@ -1,0 +1,18 @@
+program
+int abc(int z[10]) 
+{
+int: xx,i;
+xx[i+3]:=23 * xx[i+1]*xx[i]; 
+}
+int : a, &b, c,*p, z[10];
+int : xx[40], *xxx[45];
+char :z,y, *d,*p,*d;
+begin
+input a,b;
+int abc(a,b);
+if((a<b) && (b<c))
+then
+a[1+1]:=a+1+e;
+endif;
+output c;
+end;
