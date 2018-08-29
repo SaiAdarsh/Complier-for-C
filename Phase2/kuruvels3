@@ -1,0 +1,18 @@
+program 
+int : x , y , z , d; 
+begin
+input x,y;
+if(x>y)
+then
+{
+z := x + y ;
+s := a *c+b;
+} 
+else
+{
+d := x+y*z;
+c := a+b*c;
+}
+end if ;
+output z ; 
+end;

@@ -1,0 +1,11 @@
+program 
+int : x , y , z , d; 
+begin
+input x,y;
+if(x>y)
+then
+{
+z := x + y ;
+} end if ;
+output z ; 
+end;
