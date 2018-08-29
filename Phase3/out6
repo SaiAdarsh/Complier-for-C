@@ -1,0 +1,22 @@
+                     
+Dumping code generated to this point:
+0	ADD	x	y	#tmp0
+1	ASSIGN	#tmp0	#VOID	x
+2	ADD	y	1	#tmp1
+3	ASSIGN	#tmp1	#VOID	y
+4	if <	a	b	6
+5	GOTO	#VOID	#VOID	14
+6	if <	b	c	8
+7	GOTO	#VOID	#VOID	14
+8	if <	a	c	10
+9	GOTO	#VOID	#VOID	12
+10	ASSIGN	a	#VOID	min
+11	GOTO	#VOID	#VOID	VOID
+12	ASSIGN	c	#VOID	min
+13	GOTO	#VOID	#VOID	VOID
+14	if <	b	c	16
+15	GOTO	#VOID	#VOID	18
+16	ASSIGN	b	#VOID	min
+17	GOTO	#VOID	#VOID	VOID
+18	ASSIGN	c	#VOID	min
+END 

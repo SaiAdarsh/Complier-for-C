@@ -1,0 +1,7 @@
+   
+Dumping code generated to this point:
+0	if <	a	20	2
+1	GOTO	#VOID	#VOID	4
+2	ADD	a	1	#tmp0
+3	ASSIGN	#tmp0	#VOID	a
+END 

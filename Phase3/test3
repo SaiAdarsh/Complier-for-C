@@ -1,0 +1,8 @@
+program
+int :a,b,c;
+begin
+if((a<b) && (b<c)) 
+then
+a:=a+1;
+endif;
+end;

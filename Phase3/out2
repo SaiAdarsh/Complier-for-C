@@ -1,0 +1,18 @@
+                    
+Dumping code generated to this point:
+0	if <	a	b	2
+1	GOTO	#VOID	#VOID	10
+2	if <	b	c	4
+3	GOTO	#VOID	#VOID	10
+4	if <	a	c	6
+5	GOTO	#VOID	#VOID	8
+6	ASSIGN	a	#VOID	min
+7	GOTO	#VOID	#VOID	VOID
+8	ASSIGN	c	#VOID	min
+9	GOTO	#VOID	#VOID	VOID
+10	if <	b	c	12
+11	GOTO	#VOID	#VOID	14
+12	ASSIGN	b	#VOID	min
+13	GOTO	#VOID	#VOID	VOID
+14	ASSIGN	c	#VOID	min
+END 

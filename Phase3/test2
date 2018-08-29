@@ -1,0 +1,11 @@
+program
+int :a,b,c;
+ begin
+if((a<b) && (b<c)) then
+if(a<c) then min := a;
+else min :=c; endif;
+else if (b<c) then min :=b;
+else min :=c;
+endif;
+endif;
+end ;

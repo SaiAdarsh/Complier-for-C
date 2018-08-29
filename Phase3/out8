@@ -1,0 +1,22 @@
+                    
+Dumping code generated to this point:
+0	ADD	m	n	#tmp0
+1	ASSIGN	#tmp0	#VOID	n
+2	MINUS	m	n	#tmp1
+3	ASSIGN	#tmp1	#VOID	m
+4	if <	m	n	6
+5	GOTO	#VOID	#VOID	10
+6	if >	n	i	8
+7	GOTO	#VOID	#VOID	10
+8	ASSIGN	n	#VOID	m
+9	GOTO	#VOID	#VOID	15
+10	if <	m	n	12
+11	GOTO	#VOID	#VOID	14
+12	ASSIGN	8	#VOID	f
+13	GOTO	#VOID	#VOID	15
+14	ASSIGN	1	#VOID	m
+15	if <	n	m	17
+16	GOTO	#VOID	#VOID	19
+17	ADD	m	n	#tmp2
+18	ASSIGN	#tmp2	#VOID	m
+END 

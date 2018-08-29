@@ -1,0 +1,10 @@
+program int: m,n;
+begin
+input m,n;
+n:=m+n;
+m:=m-n;
+if ((m<n)&& (n>i)) then m:=n; else if(m<n) then f:=8;else  m:=1; endif ; endif;
+while (n<m) loop
+m:=m+n;
+endloop;
+output n; end;

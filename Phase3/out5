@@ -1,0 +1,12 @@
+   
+Dumping code generated to this point:
+0	ADD	x	1	#tmp0
+1	ASSIGN	#tmp0	#VOID	x
+2	ADD	y	1	#tmp1
+3	ASSIGN	#tmp1	#VOID	y
+4	if <	x	20	0
+5	GOTO	#VOID	#VOID	7
+6	GOTO	#VOID	#VOID	VOID
+7	MULT	x	10	#tmp2
+8	ASSIGN	#tmp2	#VOID	x
+END 

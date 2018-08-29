@@ -1,0 +1,8 @@
+program
+int :a,b,c;
+begin
+while (a<20)
+loop
+a :=a+1;
+endloop;
+end;

@@ -1,0 +1,11 @@
+program
+int :x,y;
+begin
+loop
+x :=x+1;
+y:=y+1;
+until
+(x<20)
+x:=x*10;
+endloop;
+end ;

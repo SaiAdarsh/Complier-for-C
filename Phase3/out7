@@ -1,0 +1,10 @@
+ 
+Dumping code generated to this point:
+0	if <	a	b	5
+1	GOTO	#VOID	#VOID	2
+2	ADD	a	1	#tmp0
+3	ASSIGN	#tmp0	#VOID	a
+4	GOTO	#VOID	#VOID	VOID
+5	MINUS	a	1	#tmp1
+6	ASSIGN	#tmp1	#VOID	a
+END 
